@@ -13,14 +13,15 @@
 }
 .doller-colour{
     color: #FF136F;
+    margin-left: 30%;
    
 }
 .buy-now-button{
     background-image: linear-gradient(to bottom,#FF589B 0%,#FF136F 100%);
-    color: #fff;
     border-radius: 8px;
     padding: 9px 25px;
     cursor: pointer;
+    margin-left: 30%;
 
 }
 .headphone-name{
@@ -29,4 +30,45 @@
 .last-name{
     color: green;
 }
-   
+.cat1,.cat2,.cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+    
+}
+ .cat1{
+    background-color: orange;
+ }  
+ .cat2{
+    background-color: rgb(175, 80, 96);
+ }
+ .cat3{
+    background-color: blue;
+ }
+ .catagories h1{
+   color: white;
+ }
+ .catagories img{
+    width: 100px;
+ }
+ .link{
+    text-decoration: none;
+    color: #fff;
+
+ }
+ .no{
+    margin-left: 0%;
+ }
+ .card{
+    border: none;
+    box-shadow: 5px 5px 10px;
+ }
+ #contact{
+    height: 300px;
+ }
+ #contact h6{
+    color: gray;
+ }
+ footer{
+    text-align: center;
+ }
+
