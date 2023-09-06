@@ -1,0 +1,32 @@
+.container{
+    margin-bottom: 100px;
+}
+.caro-bg{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.blue-text{
+    color: rgba(2, 2, 111, 0.912);
+}
+.doller-colour{
+    color: #FF136F;
+   
+}
+.buy-now-button{
+    background-image: linear-gradient(to bottom,#FF589B 0%,#FF136F 100%);
+    color: #fff;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+
+}
+.headphone-name{
+    color: chocolate;
+}
+.last-name{
+    color: green;
+}
+   
